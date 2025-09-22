@@ -1,0 +1,8 @@
+{
+    "main_menu": "👋 *Welcome to Technik Nest!*\nPlease choose an option:\n1️⃣ - Our Services\n2️⃣ - About Us\n3️⃣ - Portfolio\n4️⃣ - Talk to a Team Member",
+    "services": "🛠️ *Our Services:*\n- Web Development\n- Mobile App Development\n- Graphic Design\n- AI Chatbots\n\nReply *0* for main menu.",
+    "about_us": "🏢 *About Technik Nest:*\nTechnik Nest is a leading software development company based in Pakistan, specializing in innovative, tailor-made digital solutions.\n\nSlogan: *Innovative Mind, Nesting Success*\n📞 Contact us today to bring your ideas to life!\n\nReply *0* for main menu.",
+    "portfolio": "🔗 *Our Portfolio:*\n🌐 Website: https://techniknest.tech/\n📸 Instagram: https://www.instagram.com/techniknest/\n\nReply *0* for main menu.",
+    "invalid": "❌ Invalid choice. Reply *0* for the main menu."
+}
+
